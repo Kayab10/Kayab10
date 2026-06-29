@@ -5,7 +5,7 @@
 - 💻 C++ | Python 
 - 🚀 Building projects at the intersection of AI, data, and real-world applications
 - 🌱 Currently exploring Agentic AI
-- 📚 Will like to explore RL, Finance, Game Theory, Bioinformatics in Masters
+- 📚 Would like to explore RL, Finance, Game Theory, Bioinformatics in Masters
   
 
 
